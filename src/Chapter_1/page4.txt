@@ -1,7 +1,7 @@
 
 
-hello today is git day
+hello today is git day....
 
-we will recap whatever we did yesterday
+we will recap whatever we did yesterday////
 
-all the steps from installing to start executing
+all the steps from installing to start executing...

@@ -3,5 +3,8 @@
 Today is Saim's day // .. .. ..
 
 
+What is String Pool in Java? String Pool is a storage area in Java heap. String allocation, like all object allocation, proves to be a costly affair in both the cases of time and memory. The JVM performs some steps while initializing string literals to increase performance and decrease memory overhead.Jun 17, 2021
+
+
 
 
